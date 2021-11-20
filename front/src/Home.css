@@ -1,0 +1,49 @@
+html {
+    height: 100%;
+    margin: 0 auto;
+    padding: 0;
+    display: table;
+}
+
+body {
+    background-color: rgb(88, 126, 170);
+    min-height: 100%;
+    margin: 0 auto;
+    padding: 0;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.Home {
+    width: 60rem;
+    height: 50rem;
+    background-color: white;
+    border-radius: 0.8rem;
+    vertical-align: middle;
+    padding: 3rem 9rem;
+    box-shadow: 0 3px 3px #ccc;
+    overflow: hidden;
+}
+
+.app-title {
+    text-align: center;
+    margin: 0 0 3rem 0;
+}
+
+.table {
+    height: 600px;
+    width: 800px;
+    margin: 0 auto;
+}
+
+.logoutButton {
+    width: 20%;
+    height: 3rem;
+    /* margin: 0 0 0 rem !important; */
+    bottom: 20px;
+}
+
+.Bottom {
+    text-align: right;
+    margin: 5rem 0;
+}
